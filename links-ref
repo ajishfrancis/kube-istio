@@ -1,0 +1,25 @@
+Besides videos below, here is good step by step tutorial on Istio. 
+
+https://medium.com/devopslinks/istio-step-by-step-part-01-introduction-to-istio-b9fd0df30a9e 
+
+Subject: Google Istio - Kubernetes - Jump start videos & Sample Application to Play 
+
+Sample Book Info Application 
+https://istio.io/docs/examples/bookinfo/ 
+
+Module 1: Istio - Kubernetes - Getting Started - Installation and Sample Application Review 
+https://www.youtube.com/watch?v=ThEsWl3sYtM&feature=youtu.be
+
+Module 2: Understanding Istio Route Rules and Kubernetes in Depth
+https://www.youtube.com/watch?v=e2kowI0fAz0
+
+Module 3: Understanding Istio Route Rules and Kubernetes: Routing Based on HTTP Headers
+https://www.youtube.com/watch?v=nCNVBSa_oeY
+
+Module #4: Fault Injection - Delayed Traffic Routing Based on HTTP headers
+https://www.youtube.com/watch?v=5RLU4pw5dbI 
+Module 5: Understanding Istio Rate Throttling and Kubernetes: Rate Throttling Based on HTTP Headers
+https://www.youtube.com/watch?v=nnX56pi1NCE
+
+Detailed Instructions on Installing and Using Prometheus to Monitor a Kubernetes Cluster 
+https://www.youtube.com/watch?v=jxNRXslYmrU&feature=youtu.be 
